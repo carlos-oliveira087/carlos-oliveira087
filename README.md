@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Olá, eu sou Carlos Oliveira!
+🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor Front-End | ☁️ Entusiasta de Cloud Computing
 
-<!--
-**carlos-oliveira087/carlos-oliveira087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprimorar minhas habilidades e criar soluções eficientes. Meu foco principal é o desenvolvimento web e computação em nuvem.
 
-Here are some ideas to get you started:
+💡 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End: JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS
+
+Back-End & Cloud: AWS, APIs, arquitetura de sistemas
+
+Outros: Versionamento com Git/GitHub, metodologias ágeis
+
+📜 Certificações
+✅ AWS Certified Cloud Practitioner
+✅ AWS Partner: Cloud Economics Essentials
+✅ AWS Knowledge: Cloud Essentials
+
+🌎 Idiomas
+🇧🇷 Português (Nativo)
+🇺🇸 Inglês (Avançado)
+🇪🇸 Espanhol (Básico)
+
+📫 Conecte-se comigo!
+📧 E-mail: carlinhos.oneto0@gmail.com
+🔗 LinkedIn: Carlos Oliveira
+
+💡 Explore meus repositórios e projetos no GitHub! 🚀
