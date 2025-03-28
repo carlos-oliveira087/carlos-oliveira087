@@ -1,28 +1,32 @@
-👋 Olá, eu sou Carlos Oliveira!
-🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor Front-End | ☁️ Entusiasta de Cloud Computing
+# 👋 Olá, eu sou Carlos Oliveira!
 
-Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprimorar minhas habilidades e criar soluções eficientes. Meu foco principal é o desenvolvimento web e computação em nuvem.
+🎓 **Estudante de Ciência da Computação** | 💻 **Desenvolvedor Front-End** | ☁️ **Entusiasta de Cloud Computing**
 
-💡 Tecnologias & Ferramentas
+Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprimorar minhas habilidades e criar soluções eficientes. Meu foco principal é o **desenvolvimento web** e **computação em nuvem**.
 
-Front-End: JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS
+## 💡 Tecnologias & Ferramentas
 
-Back-End & Cloud: AWS, APIs, arquitetura de sistemas
+- **Front-End:** JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS  
+- **Back-End & Cloud:** AWS, APIs, arquitetura de sistemas  
+- **Outros:** Versionamento com Git/GitHub, metodologias ágeis  
 
-Outros: Versionamento com Git/GitHub, metodologias ágeis
+## 📜 Certificações
 
-📜 Certificações
-✅ AWS Certified Cloud Practitioner
-✅ AWS Partner: Cloud Economics Essentials
-✅ AWS Knowledge: Cloud Essentials
+✅ **AWS Certified Cloud Practitioner**  
+✅ **AWS Partner: Cloud Economics Essentials**  
+✅ **AWS Knowledge: Cloud Essentials**  
 
-🌎 Idiomas
-🇧🇷 Português (Nativo)
-🇺🇸 Inglês (Avançado)
-🇪🇸 Espanhol (Básico)
+## 🌎 Idiomas
 
-📫 Conecte-se comigo!
-📧 E-mail: carlinhos.oneto0@gmail.com
-🔗 LinkedIn: Carlos Oliveira
+- 🇧🇷 **Português** (Nativo)  
+- 🇺🇸 **Inglês** (Avançado)  
+- 🇪🇸 **Espanhol** (Básico)  
 
-💡 Explore meus repositórios e projetos no GitHub! 🚀
+## 📫 Conecte-se comigo!
+
+📧 **E-mail:** [carlinhos.oneto0@gmail.com](mailto:carlinhos.oneto0@gmail.com)  
+🔗 **LinkedIn:** [Carlos Oliveira](https://linkedin.com/in/carlos-oliveira-98aa64288)  
+
+---
+
+💡 **Explore meus repositórios e projetos no GitHub!** 🚀
