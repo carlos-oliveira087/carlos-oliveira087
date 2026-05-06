@@ -1,32 +1,44 @@
-# 👋 Olá, eu sou Carlos Oliveira!
+# 👋 Hi, I'm Carlos Oliveira!
 
-🎓 **Estudante de Ciência da Computação** | 💻 **Desenvolvedor Front-End** | ☁️ **Entusiasta de Cloud Computing**
+🎓 **Computer Science Student** | 💻 **Full-Stack Developer** | ☁️ **AWS Certified**
 
-Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprimorar minhas habilidades e criar soluções eficientes. Meu foco principal é o **desenvolvimento web** e **computação em nuvem**.
+Full-stack developer with hands-on experience building and maintaining web applications — Laravel & Vue.js on the back end, React.js on the front end. I'm passionate about clean code, cloud computing, and creating efficient, user-focused solutions.
 
-## 💡 Tecnologias & Ferramentas
+## 🚀 Tech Stack
 
-- **Front-End:** JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS  
-- **Back-End & Cloud:** AWS, APIs, arquitetura de sistemas  
-- **Outros:** Versionamento com Git/GitHub, metodologias ágeis  
+**Front-End:** JavaScript, TypeScript, React.js, Vue.js, Tailwind CSS, HTML, CSS
+**Back-End:** PHP, Laravel, Python, Django, Jinja
+**Database & Cloud:** MySQL, AWS, REST APIs
+**Tools:** Git, GitHub, Agile methodologies
 
-## 📜 Certificações
+## 💼 Experience
 
-✅ **AWS Certified Cloud Practitioner**  
-✅ **AWS Partner: Cloud Economics Essentials**  
-✅ **AWS Knowledge: Cloud Essentials**  
+- 🏢 **Full-Stack Developer @ WD7** *(Jul/2025 – present)*
+  Laravel + Vue.js, database management, API integrations & performance optimization
 
-## 🌎 Idiomas
+- 🏢 **Front-End Intern @ Fábrica de Software** *(Mar/2025 – Nov/2025)*
+  React, TypeScript, Django & Jinja — front-end/back-end integration
 
-- 🇧🇷 **Português** (Nativo)  
-- 🇺🇸 **Inglês** (Avançado)  
-- 🇪🇸 **Espanhol** (Básico)  
+- 🏢 **Front-End Intern @ Compass UOL** *(Aug/2024 – Jan/2025)*
+  React.js, responsive design, API consumption & UX improvement
 
-## 📫 Conecte-se comigo!
+## 📜 Certifications
 
-📧 **E-mail:** [carlinhos.oneto0@gmail.com](mailto:carlinhos.oneto0@gmail.com)  
-🔗 **LinkedIn:** [Carlos Oliveira](https://linkedin.com/in/carlos-oliveira-98aa64288)  
+✅ **AWS Certified Cloud Practitioner** (2025)
+✅ **AWS Partner: Cloud Economics Essentials** (2025)
+✅ **AWS Knowledge: Cloud Essentials** (2025)
+
+## 🌎 Languages
+
+- 🇧🇷 **Portuguese** (Native)
+- 🇺🇸 **English** (Advanced)
+- 🇪🇸 **Spanish** (Intermediate)
+
+## 📫 Let's connect!
+
+📧 **Email:** [jcarlos.oliveira.nt@gmail.com](mailto:jcarlos.oliveira.nt@gmail.com)
+🔗 **LinkedIn:** [Carlos Oliveira](https://linkedin.com/in/carlos-oliveira-98aa64288)
 
 ---
 
-💡 **Explore meus repositórios e projetos no GitHub!** 🚀
+💡 **Feel free to explore my repositories and projects!** 🚀
