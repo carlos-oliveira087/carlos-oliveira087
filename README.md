@@ -7,9 +7,13 @@ Full-stack developer with hands-on experience building web applications with Lar
 ## 🚀 Tech Stack
 
 **Front-End:** JavaScript, TypeScript, React.js, Vue.js, Tailwind CSS, HTML, CSS
+
 **Back-End:** PHP, Laravel, Python, Django, Jinja
+
 **Database & Cloud:** MySQL, AWS, REST APIs
+
 **Robotics & Automation:** Python, ROBO Pro, Fischertechnik, Sensor Integration, Control Systems
+
 **Tools:** Git, GitHub, Agile methodologies
 
 ## 💼 Experience
