@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Oliveira!
 
-🎓 **Computer Science Student** | 💻 **Full-Stack Developer** | ☁️ **AWS Certified** | 🤖 **Robotics Researcher**
+🎓 **Computer Science Student** | 💻 **Full-Stack Developer**
 
 Full-stack developer with hands-on experience building web applications with Laravel & Vue.js on the back end and React.js on the front end. Currently also working on robotics and automation research at the University of West Bohemia. Passionate about clean code, cloud computing, and creating efficient, user-focused solutions.
 
