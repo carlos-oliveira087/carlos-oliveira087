@@ -1,17 +1,21 @@
 # 👋 Hi, I'm Carlos Oliveira!
 
-🎓 **Computer Science Student** | 💻 **Full-Stack Developer** | ☁️ **AWS Certified**
+🎓 **Computer Science Student** | 💻 **Full-Stack Developer** | ☁️ **AWS Certified** | 🤖 **Robotics Researcher**
 
-Full-stack developer with hands-on experience building and maintaining web applications — Laravel & Vue.js on the back end, React.js on the front end. I'm passionate about clean code, cloud computing, and creating efficient, user-focused solutions.
+Full-stack developer with hands-on experience building web applications with Laravel & Vue.js on the back end and React.js on the front end. Currently also working on robotics and automation research at the University of West Bohemia. Passionate about clean code, cloud computing, and creating efficient, user-focused solutions.
 
 ## 🚀 Tech Stack
 
 **Front-End:** JavaScript, TypeScript, React.js, Vue.js, Tailwind CSS, HTML, CSS
 **Back-End:** PHP, Laravel, Python, Django, Jinja
-**Database** & Cloud:** MySQL, AWS, REST APIs
+**Database & Cloud:** MySQL, AWS, REST APIs
+**Robotics & Automation:** Python, ROBO Pro, Fischertechnik, Sensor Integration, Control Systems
 **Tools:** Git, GitHub, Agile methodologies
 
 ## 💼 Experience
+
+- 🔬 **Research Program @ University of West Bohemia** *(Apr/2026 – Jun/2026)*
+  Automation & control systems with Fischertechnik robotics, Python and ROBO Pro — sensor integration and real-time decision-making algorithms
 
 - 🏢 **Full-Stack Developer @ WD7** *(Jul/2025 – present)*
   Laravel + Vue.js, database management, API integrations & performance optimization
