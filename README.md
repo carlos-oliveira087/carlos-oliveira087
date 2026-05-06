@@ -8,7 +8,7 @@ Full-stack developer with hands-on experience building and maintaining web appli
 
 **Front-End:** JavaScript, TypeScript, React.js, Vue.js, Tailwind CSS, HTML, CSS
 **Back-End:** PHP, Laravel, Python, Django, Jinja
-**Database & Cloud:** MySQL, AWS, REST APIs
+**Database** & Cloud:** MySQL, AWS, REST APIs
 **Tools:** Git, GitHub, Agile methodologies
 
 ## 💼 Experience
